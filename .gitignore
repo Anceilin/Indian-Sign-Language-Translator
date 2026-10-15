@@ -1,0 +1,12 @@
+venv/
+.venv/
+node_modules/
+frontend/dist/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
